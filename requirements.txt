@@ -1,4 +1,4 @@
-# These role have been tested with these PIP component.
+# These role(s) have been tested with these PIP component.
 # To install the required version yourself, use a command as:
 # `python -m pip --user install -r requirements.txt`
 # See the pip requirements file documentation for details:
